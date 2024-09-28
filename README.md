@@ -17,6 +17,10 @@ This is a simple grading system that converts numeric grades (from 0 to 100) int
 
 ###Known bugs
 This application works perfectly well,cno bugs.
-###License
+
+ ###License
+ *Licensed under [MIT License]. (https://github.com/Charlez-1/Charlez1-code-challenge1/blob/main/LICENSE)
+
+ copyright @2024
 
 ###
